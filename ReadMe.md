@@ -8,7 +8,7 @@ A lightweight Java application to compress JavaScript files by minifying them. T
 - Outputs the minified code to a new .min.js file.
 
 ## Getting Started
-###Prerequisites
+### Prerequisites
 - Java Runtime Environment (JRE) 11 or later.
 - A JavaScript file containing the code to be minified.
 

@@ -1,5 +1,5 @@
 # JS Minifier
-## <i>Jasmine<i>
+## <i>Jasmine</i>
 A lightweight Java application to compress JavaScript files by minifying them. This tool reduces file size and optimizes JavaScript code for faster loading times and better performance.
 
 ## Features

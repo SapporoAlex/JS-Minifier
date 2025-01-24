@@ -29,7 +29,7 @@ bin/
 .DS_Store
 
 *.class
-*.exe
+!*Jasmine.exe
 *.log
 .idea/
 *.iml

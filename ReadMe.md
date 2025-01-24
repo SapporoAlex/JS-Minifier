@@ -18,7 +18,7 @@ Clone this repository:
 git clone https://github.com/your-username/JSCompressor.git
 cd JSCompressor
 ```
-Download the .exe file or compile the JAR file from the source code. I have included JSMinifier.xml that you can use for the configuration in Launch4j.
+Compile the JAR file from the source code. I have included JSMinifier.xml that you can use for the configuration in Launch4j.
 
 ## Usage
 ### Using the Executable (Jasmine.exe)
@@ -58,7 +58,6 @@ After Minification (output.min.js)
 const observer=new IntersectionObserver(d=>{d.forEach(a=>{a.target===profileImage&&(a.isIntersecting?profileImage.classList.add("enlarged"):profileImage.classList.remove("enlarged"));a.target===graphSheet&&(a.isIntersecting?
 ```
 ## Files in This Repository
-- Jasmine.exe: The precompiled executable for the program.
 - JSMinifier.jar: The Java Archive file to run the program.
 - JSMinifier.xml
 - src/: Source code for the project.
